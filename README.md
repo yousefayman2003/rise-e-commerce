@@ -34,6 +34,12 @@ e-commerce/
 └── Main.java              # Comprehensive demo with all use cases
 ```
 
+## System Workflow
+<img width="257" height="1580" alt="Image" src="https://github.com/user-attachments/assets/b2e49555-507d-4ab9-832a-250726b5db2f" />
+
+## Design Overview
+<img width="2083" height="1113" alt="Image" src="https://github.com/user-attachments/assets/06c18342-aefc-4dbe-a176-adda04bcac98" />
+
 ## Product Types
 
 ### Cheese
